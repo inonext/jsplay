@@ -111,4 +111,4 @@ async function getPost() {
   }
 }
 getPost();
-console.log("After code async");
+console.log("Wait async code");
